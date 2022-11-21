@@ -1,0 +1,26 @@
+body {
+ display: flex; 
+}
+.glav{
+	color: White;
+	font-size: 300%;
+    margin: 50px;
+	line-height: 100px;
+}
+.te{
+	color: White;
+    vertical-align: middle;
+	font-size: 150%;
+}
+.text {
+  background-color: 1b2838;
+  margin: -1px;
+}
+.t22 {
+  padding: 20px;
+  background-color: 1b2838;
+  line-height: 100px;
+  font-size: 100%;
+  margin: 100px;
+  margin-left: 200px;
+}
